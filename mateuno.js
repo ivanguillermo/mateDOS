@@ -1,4 +1,4 @@
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbw7-YyOKPtnEpcKynE2L1aiQUPSZUTMltZl2CrqBIZQH_VuxL32NYpkwNmPEHeMyzMk/exec";
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzajpb5gR4cZdnyfyCWz5DdaFu46bVIq1002xPK82iarr3GYA8c_Zo04NEEV163EJfprA/exec";
 let currentUser = null;
 let selectedAnswerCorrect = null;
 let currentObjective = "1.1";
