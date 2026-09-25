@@ -65,10 +65,10 @@ const siteContent = {
         html: `
             <div class="space-y-4">
                 <div class="border border-slate-200 p-4 rounded-xl">
-                    <h4 class="font-bold text-blue-900">Unidad I: Conjuntos Numéricos</h4>
+                    <h4 class="font-bold text-blue-900">Unidad I: </h4>
                     <p class="text-xs text-slate-500 mb-2">Objetivo: Emplear de manera lógica los conceptos y técnicas de números naturales, enteros, racionales y reales.</p>
                     <p class="font-bold text-blue-900 mb-2">
-                        <a href="https://drive.google.com/file/d/1s8ZV983yeUz-hzJSosve1bFx878NtoXe/view?usp=sharing" target="_blank" class="underline"> 📖 TEXTO: CONJUNTOS NUMÉRICOS </a>
+                        <a href="https://drive.google.com/drive/folders/1AzqWYP79lo-ufPLBWj2KAY6fsM9hrhNh" target="_blank" class="underline"> 📖 TEXTO: CONJUNTOS NUMÉRICOS </a>
                     </p>
                     <ul class="text-sm text-slate-600 list-disc list-inside space-y-1">
                         <li><strong>Obj. 1.1: Naturales, enteros, racionales y uso de calculadora.</strong></li>
