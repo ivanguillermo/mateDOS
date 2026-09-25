@@ -1,6 +1,6 @@
 {
-  "name": "MateUNA - Matemática I",
-  "short_name": "MateUNA",
+  "name": "Matematicas II",
+  "short_name": "MateDOS",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f8fafc",
